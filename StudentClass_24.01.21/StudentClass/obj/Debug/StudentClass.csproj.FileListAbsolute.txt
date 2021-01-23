@@ -1,0 +1,7 @@
+C:\Users\MERVE-PC\source\repos\StudentClass\StudentClass\bin\Debug\StudentClass.exe.config
+C:\Users\MERVE-PC\source\repos\StudentClass\StudentClass\bin\Debug\StudentClass.exe
+C:\Users\MERVE-PC\source\repos\StudentClass\StudentClass\bin\Debug\StudentClass.pdb
+C:\Users\MERVE-PC\source\repos\StudentClass\StudentClass\obj\Debug\StudentClass.csprojAssemblyReference.cache
+C:\Users\MERVE-PC\source\repos\StudentClass\StudentClass\obj\Debug\StudentClass.csproj.CoreCompileInputs.cache
+C:\Users\MERVE-PC\source\repos\StudentClass\StudentClass\obj\Debug\StudentClass.exe
+C:\Users\MERVE-PC\source\repos\StudentClass\StudentClass\obj\Debug\StudentClass.pdb
